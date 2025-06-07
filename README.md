@@ -59,6 +59,8 @@ This project is licensed under the
 
 ---
 
+#arduino #pcb #micro-controller
+
 Feel free to fork, contribute, or suggest improvements.  
 **NV Creations** – Freelance Developer | PCB Designer | Problem Solver
 
